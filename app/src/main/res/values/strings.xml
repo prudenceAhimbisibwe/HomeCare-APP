@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeCare</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account?<b>SignUp</b></string>
+    <string name="Enterpassword">Enter Password</string>
+    <string name="Enteremail">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">SignUp</string>
+    <string name="already_has_an_account_login">Already has an account? <b>Login</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
